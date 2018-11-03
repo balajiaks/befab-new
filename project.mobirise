@@ -42,8 +42,8 @@
     "index.html": {
       "settings": {
         "main": true,
-        "title": "Home",
-        "meta_descr": "",
+        "title": "befab.in",
+        "meta_descr": "Engineering Services,3D Cad Services,PDMS customization, Pml programing, PDMS traning.",
         "header_custom": "",
         "footer_custom": "",
         "html_before": ""
